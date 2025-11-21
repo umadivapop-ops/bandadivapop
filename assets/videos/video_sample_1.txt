@@ -1,0 +1,2 @@
+This is a placeholder for a video file. Replace with an actual mp4/webm file.
+Filename suggestion: video_sample_1.mp4
